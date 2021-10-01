@@ -1,7 +1,8 @@
 function How() {
   return (
     <>
-      <h1>How text </h1>
+      <h1 className="CureALL">CureALL</h1>
+      <h2>How text </h2>
     </>
   );
 }

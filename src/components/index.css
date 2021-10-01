@@ -1,8 +1,30 @@
 /* Home  */
-@import url("https://fonts.googleapis.com/css2?family=Bungee+Inline&family=Montserrat+Subrayada:wght@700&display=swap");
-
+@import url("https://fonts.googleapis.com/css2?family=Bungee+Inline&family=Montserrat+Subrayada:wght@700&family=Raleway:wght@900&display=swap");
 .CureALL {
   font-family: "Montserrat Subrayada", sans-serif;
   text-align: left;
   font-size: 70px;
+}
+
+/* Navigation  */
+
+.nav-bar {
+  width: 100%;
+  position: fixed;
+  top: 20px;
+  text-align: center;
+  color: #16151b;
+  margin: 0 15px;
+  font-size: 12px;
+  position: relative;
+  display: inline-block;
+}
+
+.nav-link {
+  text-decoration: none;
+  color: black;
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  font-size: 14px;
+  margin: 0 10px;
 }
